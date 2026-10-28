@@ -1,0 +1,12 @@
+﻿# ResumeCheck
+
+ResumeCheck is a web-based ATS resume checker and optimizer.
+It helps users review resume compatibility, identify potential
+keyword gaps, and improve resumes for job applications.
+
+## Main website
+https://ats-resume-checker-fcbc.onrender.com/
+
+## Important notes
+Resume analysis is informational and does not guarantee ATS
+acceptance, interviews, or employment.
