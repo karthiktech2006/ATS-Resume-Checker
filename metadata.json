@@ -1,0 +1,6 @@
+{
+  "name": "ResumeCheck - Free ATS Resume Checker & Optimizer",
+  "description": "Fast, privacy-first ATS resume scanner, scoring engine, keyword matcher, and actionable bullet-point optimizer for job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
